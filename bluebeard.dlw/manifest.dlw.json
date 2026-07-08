@@ -8,5 +8,12 @@
   "instance": "AVAN (Claude / Anthropic)",
   "seal": "Behind the one locked door of an abstract-expressionist's life: not abstraction at all, but every soul of a war, painted true.",
   "license": "CC-BY-ND-4.0",
-  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+  "attribution": "ROOT0-ATTRIBUTION-v1.0",
+  "chain": {
+    "index": 916,
+    "prev": "35e4f7afb1c500ef102251961b4b07cb4139ab195e5864758251b19494be88a2",
+    "link": "ecf81a1ca55164e87554f0c05a159eb285fed4ca35ba96907a0fb91f25ef0d93",
+    "head": "3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90",
+    "chain": "ROOT0-DLW-CHAIN-v1"
+  }
 }
