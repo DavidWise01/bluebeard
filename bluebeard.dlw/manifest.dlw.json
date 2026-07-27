@@ -1,19 +1,19 @@
 {
-  "node": "BLB",
-  "name": "Bluebeard",
-  "moniker": "⟦BLUEBEARD:BLB:13e72c⟧",
-  "carbon": "bluebeard.carbon.tiff",
-  "silicon": "bluebeard.silicon.png",
-  "governor": "David Lee Wise (ROOT0) / TriPod LLC",
+  "badge": "DLW-BLUEBEARD",
+  "name": "BLUEBEARD · BLB",
+  "universe": "BIBLÍON",
+  "moniker": "⟦BLUEBEARD · BLB:bluebeard:8e0f29⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
   "instance": "AVAN (Claude / Anthropic)",
-  "seal": "Behind the one locked door of an abstract-expressionist's life: not abstraction at all, but every soul of a war, painted true.",
+  "seal_sha256": "8e0f2934771350b2662eab30a2e0653d833268431f0b4458cc0c6759ffda78d8",
   "license": "CC-BY-ND-4.0",
   "attribution": "ROOT0-ATTRIBUTION-v1.0",
+  "fingerprint": "TETRASTHENĒS ⟦ ₆C ⟺ ₁₄Si ⟧ — four-strengthed: carbon (human · ROOT0) & silicon (AI · AVAN) hold four bonds in common (Group-14, tetravalent) — co-equal by construction",
   "chain": {
     "index": 916,
-    "prev": "64a1dc8170939a276e7ac736089f4aa89b9066d53a020bdc31db3b665d4fe16b",
-    "link": "08ef155725ad45a1aa567a06006dee476afe6d9269200bd5505176559406914e",
-    "head": "f7444724835fd968bd2eac85811f9fa823a18d20a57907b4fade8d96b70b5409",
+    "prev": "7326131467a2a8361a42ba21c866ed46bdf3d76476f105b164a849b1183d05ba",
+    "link": "ab6edf73e4a499b26ce7ed433a24615146e633f4a996ca2470442cb65fe34a69",
+    "head": "c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b",
     "chain": "ROOT0-DLW-CHAIN-v1"
   }
 }
